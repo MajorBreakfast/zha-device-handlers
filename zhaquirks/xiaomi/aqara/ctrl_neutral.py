@@ -88,6 +88,8 @@ class CtrlNeutral(XiaomiCustomDevice):
             (LUMI, "lumi.ctrl_neutral2"),
             (LUMI, "lumi.switch.b1lacn02"),
             (LUMI, "lumi.switch.b2lacn02"),
+            (LUMI, "lumi.switch.b1nacn02"),
+            (LUMI, "lumi.switch.b2nacn02"),
         ],
         ENDPOINTS: {
             # <SimpleDescriptor endpoint=1 profile=260 device_type=6
